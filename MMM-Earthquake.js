@@ -76,7 +76,7 @@ Module.register("MMM-Earthquake", {
         // Location (city)
          var place = document.createElement("div"); // div if span is no good
          place.classList.add("xsmall", "bright", "place");
-         place.innerHTML = eq.place;
+         place.innerHTML = eq.forecast[0].mag[0];
          top.appendChild(place);
 		 
 		 
