@@ -4,22 +4,43 @@
  * Pick your color, copy and paste the HEX number. Example - #62FF00 = bright green.
  */
 
-.MMM-Earthquake .xsmall.bright.light {
-  color: white;               /* Header color. Default is white. */
-  text-align: left;           /* Align header text. (left, center, right) */
+.MMM-Earthquake .header {
+  color: white;                /* Header color. Default is white. */
+  text-align: left;            /* Align header text. (left, center, right) */
+} 
+ 
+.MMM-Earthquake .xsmall.bright.place {
+  color: #62FF00;               /* Location color. Default is bright green. */
+  text-align: left;             /* Align location text. (left, center, right) */
+}  
+ 
+.MMM-Earthquake .xsmall.bright.lat {
+  color: white;                /* Latitude color. Default is white. */               
+  text-align: left;            /* Align Latitude text. (left, center, right) */           
 }
 
-.MMM-Earthquake .small.bright {
-  color: white;               /* Color the Earthquake ID. Default is white. */
-  text-align: left;           /* Align the Earthquake ID. (left, center, right) */
+.MMM-Earthquake .xsmall.bright.lng {
+  color: white;                 /* Longitude color. Default is white. */              
+  text-align: left;             /* Align Longitude text. (left, center, right) */          
 }
 
-.MMM-Earthquake .xsmall.bright {
-  color: white;               /* Color the information. Default is white. */
-  text-align: left;           /* Align the information. (left, center, right) */
+.MMM-Earthquake .xsmall.bright.radius {
+  color: white;                /* Radius color. Default is white. */               
+  text-align: left;            /* Align Radius text. (left, center, right) */           
 }
 
-.MMM-Earthquake .photo {
-  width: 50%;               /* Color the information. Default is white. */
-  height: 50%;           /* Align the information. (left, center, right) */
+.MMM-Earthquake .xsmall.bright.days {
+  color: white;                /* Days color. Default is white. */               
+  text-align: left;            /* Align days text. (left, center, right) */           
 }
+
+.MMM-Earthquake .xsmall.bright.mag {
+  color: white;                /* Magnitude color. Default is white. */               
+  text-align: left;            /* Align Magnitude text. (left, center, right) */           
+}
+
+.MMM-Earthquake .small.bright.prob {
+  color: #62FF00;               /* Probability color. Default is bright green. */
+  text-align: left;             /* Align the Probability. (left, center, right) */
+}
+

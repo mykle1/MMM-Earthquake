@@ -1,0 +1,23 @@
+{
+  "name": "mmm-earthquake",
+  "version": "1.0.0",
+  "description": "Earthquake probability",
+  "main": "MMM-Earthquake.js",
+  "dependencies": {
+    "xml2js": "^0.4.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mykle1/MMM-Earthquake.git"
+  },
+  "author": "mykle1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mykle1/MMM-Earthquake/issues"
+  },
+  "homepage": "https://github.com/mykle1/MMM-Earthquake#readme"
+}
