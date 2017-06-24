@@ -28,7 +28,7 @@ Takes up very little of your precious screen real estate
         module: "MMM-Earthquake",
         position: "top_left",
         config: {
-			place: "New+York,+NY", // New+York,+NY is default (follow this format)
+			place: "New York, NY", // New York, NY is default (Enter your city and state)
 			radius: "50",          // 50km = 31.0686 miles (search radius)
 			days: "365",           // 365 is default within how many days (1 - 365)
 			mag: "2.5",            // Magnitude = 1.0 - 9.9 (9.5 highest ever recorded)
