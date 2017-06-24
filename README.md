@@ -10,12 +10,12 @@ Takes up very little of your precious screen real estate
 
 ## Earthquake Magnitude Scale
 
-* 2.4 or less		Usually not felt, but can be recorded by seismograph.	900,000 per year
-* 2.5 to 5.4		Often felt, but only causes minor damage.				30,000 per year
-* 5.5 to 6.0		Slight damage to buildings and other structures.		500 per year
-* 6.1 to 6.9		May cause a lot of damage in very populated areas.		100 per year
-* 7.0 to 7.9		Major earthquake. Serious damage.						20 per year
-* 8.0 or greater	Great earthquake. Can totally destroy communities.		1 per 5-10 years
+* 2.4 or less ---------- Usually not felt, but can be recorded by seismograph. ----- 900,000 per year
+* 2.5 to 5.4 ----------- Often felt, but only causes minor damage. ----------------- 30,000 per year
+* 5.5 to 6.0 ----------- Slight damage to buildings and other structures. ---------- 500 per year
+* 6.1 to 6.9 ----------- May cause a lot of damage in very populated areas. -------- 100 per year
+* 7.0 to 7.9 ----------- Major earthquake. Serious damage. ------------------------- 20 per year
+* 8.0 or greater ------- Great earthquake. Can totally destroy communities. -------- 1 per 5-10 years
 
 ## Installation of module and dependencies
 
