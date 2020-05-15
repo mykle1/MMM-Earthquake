@@ -1,4 +1,4 @@
-# Download earthquake probabilities for a specified location. This API is currently disabled due to heavy user demand. 
+# This API is currently disabled due to heavy user demand. 
 
 
 # MMM-Earthquake
