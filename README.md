@@ -1,3 +1,6 @@
+# Download earthquake probabilities for a specified location. This API is currently disabled due to heavy user demand. 
+
+
 # MMM-Earthquake
 
 The probability of an earthquake in your city. You'll be surprised!
